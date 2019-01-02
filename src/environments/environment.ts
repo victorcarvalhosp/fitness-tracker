@@ -5,6 +5,7 @@
 
 export const environment = {
   production: false,
+  timestampsInSnapshots: true,
   firebase: {
     apiKey: 'AIzaSyC4GyQFpcEXUiowpLz4wjacyd-jtexoWn0',
     authDomain: 'fitness-tracker-ng-7.firebaseapp.com',
