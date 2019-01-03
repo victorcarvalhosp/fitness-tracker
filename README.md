@@ -1,6 +1,8 @@
 # FitnessTracker
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
+A very simple fitness-tracker example app made with Angular7, ngrx and Firebase, with basic redux implemented.
+
+https://fitness-tracker-ng-7.firebaseapp.com
 
 ## Development server
 
